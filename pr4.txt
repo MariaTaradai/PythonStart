@@ -1,0 +1,12 @@
+first = float(input("input first number: "))
+second = float(input("input second number: "))
+
+summ = first + second
+product = first * second
+differance = first - second
+quotient = first / second
+
+print("the summ is %.2f" %summ)
+print("the product is %.2f" %product)
+print("the differance is %.2f" %differance)
+print("the quotient is %.2f" %quotient)
